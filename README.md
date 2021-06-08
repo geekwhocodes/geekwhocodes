@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=geekwhocodes&show_icons=true" height="190" align="left" tyle="border-radius: 0px;margin-bottom: 0px;"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=geekwhocodes&theme=onedark&column=7&margin-w=5" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=geekwhocodes&theme=onedark&column=7&margin-w=5" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
 
 
