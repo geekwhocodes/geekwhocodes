@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go
 - 🔦 I’m looking for ideas to work on
 - 💬 Ask me about Azure
-- 📫 How to reach me: tweet me @_ganesh_raskar or <a href="https://calendly.com/geekwhocodes/15min">Schedule time with me</a>
+- 📫 How to reach me: tweet me @_ganesh_raskar or https://calendly.com/geekwhocodes/15min
 
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="190" align="right" style="border-radius: 30px;margin-bottom: 0px;"/>
 
