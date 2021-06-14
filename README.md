@@ -1,8 +1,8 @@
 ## Hi I'm Ganesh 👋
 
-- 💻 I’m currently working on cloud resource provisioning platform
+- 💻 Currently, working on a cloud resource provisioning platform
 - 🌱 I’m currently learning Go
-- 🔦 I’m looking for ideas to work on
+- 🔦 Looking for ideas to work on
 - 💬 Ask me about Azure
 - 📫 How to reach me: tweet me @_ganesh_raskar or https://calendly.com/geekwhocodes/15min
 
