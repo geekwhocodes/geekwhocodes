@@ -6,7 +6,7 @@
 - 💬 Ask me about Azure
 - 📫 How to reach me: tweet me @geekwhocodes or https://calendly.com/geekwhocodes/15min
 
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="190" align="right" style="border-radius: 30px;margin-bottom: 0px;"/>
+<!-- <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" height="190" align="right" style="border-radius: 30px;margin-bottom: 0px;"/> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=geekwhocodes&show_icons=true" height="190" align="left" tyle="border-radius: 0px;margin-bottom: 0px;"/>
 
