@@ -1,14 +1,13 @@
 
 
 <h1 align="center">Hi, I'm Ganesh</h1>
-<p>
+<!--<p>
 Cloud Native developer, 
-Currently focusing on data engineering. I spend most of my reading about designing and building large scale distributed apps.
+Currently focusing on data engineering. I spend most of my time reading about designing and building large scale distributed apps.
 Worked on different azure services like azure functions, web apps, datafactory, databricks etc. 
 <br/>
 Actively exploring solution architecture patterns and practices. Interested in working on large scale distributed application.
-
-</p>
+</p>-->
 
 <p>
 <a align= "center" href="https://github.com/geekwhocodes">
