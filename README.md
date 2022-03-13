@@ -4,7 +4,7 @@
 
 Cloud Native developer. 
 Currently working as a data engineer. 
-I spend most of my time reading about designing and building large scale distributed apps.
+I like to spend my time reading about designing and building large scale distributed apps.
 <br/>
 
 </p>
