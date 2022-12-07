@@ -22,7 +22,7 @@ I like to spend my time reading about designing and building large scale distrib
 - 🌱 I’m currently learning Go
 - 🔦 Looking for ideas to work on
 - 💬 Ask me about Azure
-- 👻 Fun fact - I am college drop out
+- 👻 Fun fact - I am a college drop out
 - 📫 How to reach me: tweet me @geekwhocodes or https://calendly.com/geekwhocodes/coffee-chat
 
 <hr/>
