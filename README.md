@@ -25,7 +25,7 @@ I like to spend my time reading about designing and building large scale distrib
 
 <hr/>
 
+<p align="left"> <a href="https://peerlist.io/geekwhocodes" target="blank"><img src="https://github-readme-badge.peerlist.io/api/geekwhocodes?style=flat-square" alt="geekwhocodes" /> </a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekwhocodes&label=Profile%20views&color=58a6ff&style=flat-square" alt="geekwhocodes" /> </p>
-<p> <a href="https://wakatime.com/@a9a4ca1c-46e3-4752-955b-306a3e8ff78f" taget="blank"><img src="https://wakatime.com/badge/user/a9a4ca1c-46e3-4752-955b-306a3e8ff78f.svg?style=flat-square" alt="wakatime" /></a></p>
 <p align="left"> <a href="https://twitter.com/geekwhocodes" target="blank"><img src="https://img.shields.io/twitter/follow/geekwhocodes?logo=twitter&style=for-the-badge" alt="geekwhocodes" /></a> </p>
 
